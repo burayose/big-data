@@ -24,3 +24,5 @@ Limitation:
 Conclusion:
     • The analysis provided valuable insights into movie revenue, language influence, and popularity based on the provided dataset.
     • Further research into external influences on movie success could provide a more comprehensive understanding of revenue dynamics.
+
+    
