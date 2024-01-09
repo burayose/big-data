@@ -1,4 +1,9 @@
 ###### Movie Data Analysis
+## Overview
+This repository contains an analysis of movie-related data sourced from kaggle(TMDb movie data) . 
+The dataset includes information about movie titles, budgets, revenues, 
+languages, popularity, and production companies.
+
 #### Summary of Main Findings and Insights
 ### 1. Revenue Analysis:
     • Highest Revenue Movies:
@@ -14,14 +19,20 @@
 ### 4. Language and Popularity:
     • Mean Popularity by Spoken Languages:
         ◦ Movies predominantly in English garnered higher average popularity, as seen with Minions, Interstellar, Deadpool, Guardians of the Galaxy, and Mad Max: Fury Road.
-Additional Insights:
-    • Top 10 Movies by Popularity:
-        ◦ The top 10 movies based on popularity were identified, showcasing movies like Minions, Interstellar, and Deadpool as highly popular releases.
-
+        
+## Key Insights
+- **Language Influence**: Movies in multiple languages tend to generate higher revenue.
+- **Budget vs. Revenue**: Avatar and Titanic had substantial revenue compared to their budgets.
+- **Production Company Impact**: Certain production companies consistently produce highly popular movies.
+- **Language Popularity**: Movies primarily in English tend to have higher popularity ratings.
+- **Top 10 Popularity**: Identified the top 10 most popular movies with release dates.
+- 
 #### Limitation:
     • External Factors Impacting Revenue:
         ◦ The analysis did not account for external factors like marketing strategies or release timing, which might influence a movie's success and revenue.
-
+ **Limitation**: Mean values might not fully represent the dataset; further analysis of outliers or variations could refine findings.
+ 
+**Further Analysis**: Investigate reasons behind high revenue/popularity and explore trends across genres or time periods for deeper insights.
         
 #### Conclusion:
     • The analysis provided valuable insights into movie revenue, language influence, and popularity based on the provided dataset.
