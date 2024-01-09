@@ -1,6 +1,6 @@
-INTRODUCTION
+#### INTRODUCTION
 
-TMDb is a comprehensive database containing information about movies, including details such as titles, 
+## TMDb is a comprehensive database containing information about movies, including details such as titles, 
 release dates, genres, cast, crew, ratings, and more.
 The CSV file likely contains a dataset extracted from TMDb, possibly with information on various movies, 
 their attributes, and related metadata. 
@@ -8,21 +8,21 @@ Analyzing this dataset could involve exploring trends in movie releases, genres,
 or performing data-driven analyses to derive insights about the film industry.
 
 
-QUESTIONS 
+#### QUESTIONS 
 
-1, which title is a highest average revenue  ? (by decending order) ?
+### 1, which title is a highest average revenue  ? (by decending order) ?
 
-2, which spoken_languages is a highest average revenue ?
+### 2, which spoken_languages is a highest average revenue ?
 
-3,Display the movie titles with the highest revenue relative to budget ?
+### 3,Display the movie titles with the highest revenue relative to budget ?
 
-4,Display the movie titles with the highest revenue relative to release_date ?
+### 4,Display the movie titles with the highest revenue relative to release_date ?
 
-5,Group by 'production_companies' and 'title', calculate mean popularity, and sort values ?
+### 5,Group by 'production_companies' and 'title', calculate mean popularity, and sort values ?
 
-6, Group by 'spoken_languages' and 'title', calculate mean popularity, and sort values ? 
+### 6, Group by 'spoken_languages' and 'title', calculate mean popularity, and sort values ? 
 
- Here are the answers to the questions based on the information provided:
+#### Here are the answers to the questions based on the information provided:
 
 1. Which title has the highest average revenue (in descending order)?
    - Answer: The titles with the highest average revenue, listed in descending order, are:
